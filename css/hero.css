@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color:  #008000;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1,h2{
+	font-family: 'Roboto', sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 40px;
+
+}
+
+header img{
+	border-radius: 170px ;
+	width: 300px;
+	border: 10px solid black;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding:  0 20px ;
+}
+
+main img{
+	max-width: 900px;
+
+}
+
+h2{
+	font-size: 35px;
+	margin-top: 40px;
+	color: green;
+}
+
+a{
+	color: blue;
+}
+
+a:hover{
+	color: black;
+	background-color: green;
+}
+
+footer p{
+	margin: o;
+}
+footer{
+	text-align: right;
+	font-style: italic ;
+	padding: 30px;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
